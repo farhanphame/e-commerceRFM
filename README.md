@@ -38,7 +38,7 @@ This is a transnational data set which contains all the transactions occurring b
     j. Hibernating: Last purchase was long back and low number of orders. May be lost.
     k. Lost: Lowest recency, frequency and monetary scores.
     
-### **3. For each of the segments, you could design appropriate actions, for example:**
+### **3. For each of the segments, we could design appropriate actions, for example:**
 
     a. Champions: Reward them. They can become evangelists and early adopters of new products.
     b. Loyal customers: Up-sell higher value products. Engage them. Ask for reviews.
