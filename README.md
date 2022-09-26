@@ -1,4 +1,4 @@
-# Customer Segmentation with RFM: E-Commerce Dataset
+# Customer Segmentation with RFM Analysis: E-Commerce Dataset
 
 ## Background
 A marketing manager believes that the company must treat the customer differently in order to gain maximum profit. So, he wants to implement target marketing. Target marketing is a marketing strategy that breaks a market into segments and then concentrates your marketing efforts on one or a few key segments consisting of the customers whose needs and desires most closely match your product or service offerings. To implement target marketing, he asks for help from a data analyst to do customer segmentation. There are many method to do customer segmentation. But as data analyst, we will use RFM method because this method is the one of the most popular method in customer segmentation.
